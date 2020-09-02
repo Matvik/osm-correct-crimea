@@ -1,6 +1,6 @@
 {
     "bearing": 0,
-    "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=<YOUR MAPTILER KEY>",
+    "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=HtSsOtqTPqLYUBGNQeFf",
     "metadata": {
         "mapbox:type": "template",
         "maptiler:copyright": "This style was generated on MapTiler Cloud. Usage outside of MapTiler Cloud requires valid OpenMapTiles Production Package: https://openmaptiles.com/production-package/ -- please contact us.",
@@ -15,7 +15,7 @@
         },
         "openmaptiles": {
             "type": "vector",
-            "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=<YOUR MAPTILER KEY>"
+            "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=HtSsOtqTPqLYUBGNQeFf"
         },
         "border-lines": {
             "type": "geojson",
@@ -5259,7 +5259,7 @@
             "id": "water_name_line-uk",
             "layout": {
                 "symbol-placement": "line",
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Regular",
                     "Noto Sans Regular"
@@ -5340,7 +5340,7 @@
             ],
             "id": "water_name_point-uk",
             "layout": {
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Regular",
                     "Noto Sans Regular"
@@ -5421,7 +5421,7 @@
             ],
             "id": "water_ocean_name_point-uk",
             "layout": {
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Regular",
                     "Noto Sans Regular"
@@ -5577,7 +5577,7 @@
             "layout": {
                 "icon-image": "{subclass}_11",
                 "text-anchor": "top",
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Condensed Italic",
                     "Noto Sans Italic"
@@ -5739,7 +5739,7 @@
             "layout": {
                 "icon-image": "{class}_11",
                 "text-anchor": "top",
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Condensed Italic",
                     "Noto Sans Italic"
@@ -5869,7 +5869,7 @@
             "layout": {
                 "icon-image": "{class}_11",
                 "text-anchor": "top",
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Condensed Italic",
                     "Noto Sans Italic"
@@ -5997,7 +5997,7 @@
                 "icon-image": "{class}_11",
                 "icon-size": 0.9,
                 "text-anchor": "top",
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Condensed Italic",
                     "Noto Sans Italic"
@@ -6099,7 +6099,7 @@
                 "icon-image": "{class}_11",
                 "icon-size": 0.9,
                 "text-anchor": "left",
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Condensed Italic",
                     "Noto Sans Italic"
@@ -6281,7 +6281,7 @@
             "layout": {
                 "symbol-placement": "line",
                 "text-anchor": "center",
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Regular",
                     "Noto Sans Regular"
@@ -6545,7 +6545,7 @@
                 "icon-image": "airport_11",
                 "icon-size": 1,
                 "text-anchor": "top",
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Noto Sans Regular"
                 ],
@@ -6641,7 +6641,7 @@
             ],
             "id": "place_other-uk",
             "layout": {
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Condensed Italic",
                     "Noto Sans Italic"
@@ -6734,7 +6734,7 @@
             ],
             "id": "place_village-uk",
             "layout": {
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Regular",
                     "Noto Sans Regular"
@@ -6856,7 +6856,7 @@
                     ]
                 },
                 "text-anchor": "bottom",
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Regular",
                     "Noto Sans Regular"
@@ -6987,7 +6987,7 @@
                 },
                 "icon-optional": false,
                 "text-anchor": "bottom",
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Medium",
                     "Noto Sans Regular"
@@ -7084,7 +7084,7 @@
             ],
             "id": "state-uk",
             "layout": {
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Medium",
                     "Noto Sans Regular"
@@ -7185,7 +7185,7 @@
             ],
             "id": "country_other-uk",
             "layout": {
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Condensed Italic",
                     "Noto Sans Italic"
@@ -7295,7 +7295,7 @@
             ],
             "id": "country_3-uk",
             "layout": {
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Condensed Italic",
                     "Noto Sans Italic"
@@ -7405,7 +7405,7 @@
             ],
             "id": "country_2-uk",
             "layout": {
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Condensed Italic",
                     "Noto Sans Italic"
@@ -7515,7 +7515,7 @@
             ],
             "id": "country_1-uk",
             "layout": {
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Condensed Italic",
                     "Noto Sans Italic"
@@ -7596,7 +7596,7 @@
             ],
             "id": "continent-uk",
             "layout": {
-                "text-field": "{name:uk}",
+                "text-field": "{name:latin}",
                 "text-font": [
                     "Roboto Condensed Italic",
                     "Noto Sans Italic"
