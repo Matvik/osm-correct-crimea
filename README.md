@@ -1,5 +1,6 @@
 Open Street Map - Mapbox GL styles to get correct Crimea borders. 
 ==================================================================
+<img src="https://github.com/Matvik/osm-correct-crimea/raw/master/screenshot.png" height="400px">
 
 Unfortunately, due to the annexation of Crimea by the Russian Federation, it is shown on Open Street Maps as a disputed territory with a double border. At the same time, we want to see it as part of Ukraine.
 
