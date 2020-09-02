@@ -15,7 +15,7 @@
         },
         "openmaptiles": {
             "type": "vector",
-            "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=YOUR MAPTILER KEY>"
+            "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=<YOUR MAPTILER KEY>"
         },
         "border-lines": {
             "type": "geojson",
